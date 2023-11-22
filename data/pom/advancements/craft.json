@@ -1,0 +1,13 @@
+{
+	"criteria": {
+		"requirement": {
+			"trigger": "minecraft:recipe_crafted",
+			"conditions": {
+				"recipe_id": "pom:pot_of_mercy"
+			}
+		}
+	},
+	"rewards": {
+		"function": "pom:craft"
+	}
+}

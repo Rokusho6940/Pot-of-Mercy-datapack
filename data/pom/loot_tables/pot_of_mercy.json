@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:item_frame",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{EntityTag:{Invisible:1b,Invulnerable:1b,Silent:1b,Tags:[\"pom_frame\"]},Enchantments:[{}],CustomModelData:6940,display:{Name:'{\"text\":\"Pot of Mercy\",\"italic\":false,\"color\":\"light_purple\"}'}}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

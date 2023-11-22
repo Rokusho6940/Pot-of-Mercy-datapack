@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:flower_pot"
+		},
+		{
+			"item": "minecraft:blaze_powder"
+		},
+		{
+			"item": "minecraft:feather"
+		}
+	],
+	"result": {
+		"item": "minecraft:lily_of_the_valley",
+		"count": 1
+	}
+}

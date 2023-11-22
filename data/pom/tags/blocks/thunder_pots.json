@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:potted_dead_bush",
+        "minecraft:potted_wither_rose",
+        "minecraft:potted_azure_bluet",
+        "minecraft:potted_allium",
+        "minecraft:potted_blue_orchid"
+    ]
+}
